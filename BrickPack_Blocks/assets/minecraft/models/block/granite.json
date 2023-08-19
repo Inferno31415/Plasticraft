@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/granite_top",
+    "east": "minecraft:block/granite_front",
+    "north": "minecraft:block/granite_front_mirrored",
+    "particle": "minecraft:block/granite_front",
+    "south": "minecraft:block/granite_front_mirrored",
+    "up": "minecraft:block/granite_top",
+    "west": "minecraft:block/granite_front"
+  }
+}

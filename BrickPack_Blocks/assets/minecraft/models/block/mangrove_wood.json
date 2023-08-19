@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/dirt",
+    "side": "minecraft:block/mangrove_log"
+  }
+}

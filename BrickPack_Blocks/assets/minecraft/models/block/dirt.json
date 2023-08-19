@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/spruce_planks",
+    "east": "minecraft:block/dirt_side_alt",
+    "north": "minecraft:block/dirt_side",
+    "particle": "minecraft:block/stripped_spruce_log",
+    "south": "minecraft:block/stripped_spruce_log",
+    "up": "minecraft:block/spruce_planks",
+    "west": "minecraft:block/dirt_side_alt_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/compass_10",
+  "textures": {
+    "overlay": "minecraft:item/recovery_compass"
+  }
+}

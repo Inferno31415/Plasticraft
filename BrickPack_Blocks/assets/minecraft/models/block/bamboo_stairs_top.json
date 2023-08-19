@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/bamboo_planks",
+    "front": "minecraft:block/bamboo_planks_front",
+    "side": "minecraft:block/bamboo_planks_side",
+    "plate": "minecraft:block/bamboo_fence"
+  }
+}

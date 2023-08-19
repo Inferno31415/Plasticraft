@@ -1,0 +1,58 @@
+{
+  "variants": {
+     "type=bottom": [
+      {
+        "model": "minecraft:block/mossy_cobblestone_slab_1",
+		"uvlock": true,
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_1"
+      },
+          {
+        "model": "minecraft:block/mossy_cobblestone_slab_2",
+		"uvlock": true,
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_2"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/mossy_cobblestone_slab_double_1",
+		"uvlock": true,
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_double_1"
+      },
+          {
+        "model": "minecraft:block/mossy_cobblestone_slab_double_2"
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_double_2",
+		"uvlock": true,
+		"y": 180
+      }
+    ],
+         "type=top": [
+      {
+        "model": "minecraft:block/mossy_cobblestone_slab_1_top"
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_1_top",
+		"uvlock": true,
+		"y": 180
+      },
+          {
+        "model": "minecraft:block/mossy_cobblestone_slab_2_top"
+      },
+	  {
+        "model": "minecraft:block/mossy_cobblestone_slab_2_top",
+		"uvlock": true,
+		"y": 180
+      }
+    ]
+  }
+}

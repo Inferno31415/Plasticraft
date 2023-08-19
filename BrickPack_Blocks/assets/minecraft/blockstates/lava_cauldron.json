@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/cauldron"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/lava_cauldron"
+      }
+    }
+  ]
+}

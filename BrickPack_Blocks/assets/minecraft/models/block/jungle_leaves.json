@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/mangrove_leaves",
+  "textures": {
+    "side": "minecraft:block/leaves",
+    "top": "minecraft:block/stone"
+  }
+}

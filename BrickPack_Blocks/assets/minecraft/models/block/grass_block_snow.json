@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/spruce_planks",
+    "east": "minecraft:block/grass_block_snow_side_alt",
+    "north": "minecraft:block/grass_block_snow_side",
+    "particle": "minecraft:block/grass_block_snow",
+    "south": "minecraft:block/grass_block_snow",
+    "up": "minecraft:block/white_wool",
+    "west": "minecraft:block/grass_block_snow_side_alt_2"
+  }
+}

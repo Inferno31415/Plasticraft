@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/blue_ice_top",
+    "side": "minecraft:block/blue_ice_side"
+  }
+}

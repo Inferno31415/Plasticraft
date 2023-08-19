@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side_tall",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/stone_bricks_front"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/weathered_cut_copper_top",
+    "side": "minecraft:block/weathered_cut_copper_side"
+  }
+}

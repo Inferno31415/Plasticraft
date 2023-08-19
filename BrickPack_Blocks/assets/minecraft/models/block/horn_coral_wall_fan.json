@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/.parents/coral_wall_fan",
+  "textures": {
+    "1": "minecraft:block/yellow_wool"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/ores",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/birch_fence",
+    "ore": "minecraft:block/birch_planks"
+  }
+}

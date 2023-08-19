@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/crimson_stem_x"
+      },
+	  {
+        "model": "minecraft:block/crimson_stem_x",
+		"x": 90
+      },
+	  {
+        "model": "minecraft:block/crimson_stem_x",
+		"x": 180
+      },
+	  {
+        "model": "minecraft:block/crimson_stem_x",
+		"x": 270
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/crimson_stem"
+      },
+	  {
+        "model": "minecraft:block/crimson_stem",
+		"y": 90
+      },
+      {
+        "model": "minecraft:block/crimson_stem",
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/crimson_stem",
+		"y": 270
+      }
+    ],
+	"axis=z": [
+	  {
+		"model": "minecraft:block/crimson_stem_z1"
+	  },
+	  {
+		"model": "minecraft:block/crimson_stem_z2"
+	  },
+	  {
+		"model": "minecraft:block/crimson_stem_z3"
+	  },
+	  {
+		"model": "minecraft:block/crimson_stem_z4"
+	  }
+		]
+      }
+    }
+  }
+}

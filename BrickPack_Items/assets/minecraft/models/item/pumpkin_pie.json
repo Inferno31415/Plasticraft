@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/cake",
+  "textures": {
+    "1": "minecraft:block/gray_wool",
+	"2": "minecraft:block/gray_wool",
+	"3": "minecraft:item/pumpkin_pie"
+  }
+}

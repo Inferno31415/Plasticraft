@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_inner_left",
+  "textures": {
+    "top": "minecraft:block/dripstone_block",
+    "front": "minecraft:block/bricks_front",
+    "side": "minecraft:block/bricks_side",
+    "plate": "minecraft:block/brown_mushroom_block_side",
+    "other_side": "minecraft:block/brick_wall_side"
+  }
+}

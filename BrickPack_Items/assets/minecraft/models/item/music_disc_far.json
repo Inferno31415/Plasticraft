@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/.parents/disc",
+  "textures": {
+    "texture": "minecraft:block/black_wool",
+	"print": "minecraft:item/music_disc_far"
+  }
+}

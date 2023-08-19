@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/gray_wool",
+    "east": "minecraft:block/deepslate_alt",
+    "north": "minecraft:block/deepslate",
+    "particle": "minecraft:block/deepslate",
+    "south": "minecraft:block/deepslate_alt_3",
+    "up": "minecraft:block/gray_wool",
+    "west": "minecraft:block/deepslate_alt_2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/chiseled_block",
+  "textures": {
+    "top": "minecraft:block/gray_wool",
+    "side": "minecraft:block/deepslate",
+    "side_middle": "minecraft:block/deepslate"
+  }
+}

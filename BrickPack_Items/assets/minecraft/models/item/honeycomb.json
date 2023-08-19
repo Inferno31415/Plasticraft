@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"1": "block/bamboo_planks",
+		"particle": "block/honeycomb_block",
+		"texture": "block/honeycomb_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3.2, 16],
+			"faces": {
+				"north": {"uv": [0, 12.8, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 12.8, 16, 16], "texture": "#1"},
+				"south": {"uv": [0.25, 12.8, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 12.8, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4, 1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, 1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [75, -10, 75],
+			"translation": [0.5, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [75, -10, 75],
+			"translation": [0.5, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 14.25, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

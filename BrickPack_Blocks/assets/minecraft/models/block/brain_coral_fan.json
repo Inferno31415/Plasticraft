@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/.parents/coral_fan",
+  "textures": {
+    "1": "minecraft:block/brain_coral_block_top"
+  }
+}

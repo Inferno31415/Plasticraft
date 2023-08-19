@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_outer_right",
+  "textures": {
+    "top": "minecraft:block/amethyst_block_top",
+    "front": "minecraft:block/budding_amethyst_side",
+    "side": "minecraft:block/budding_amethyst_side",
+    "plate": "minecraft:block/amethyst_block_side",
+    "other_side": "minecraft:block/budding_amethyst_side"
+  }
+}

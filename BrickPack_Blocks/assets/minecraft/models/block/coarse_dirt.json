@@ -1,0 +1,10 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:block/.parents/block_6",
+  "textures": {
+    "side": "block/spruce_fence",
+    "top": "block/dirt",
+    "topstud": "block/gray_wool",
+    "bottomstud": "block/gray_wool"
+  }
+}

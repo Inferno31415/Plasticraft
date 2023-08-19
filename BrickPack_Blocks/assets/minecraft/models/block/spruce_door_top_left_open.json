@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/door_top_open_3",
+  "textures": {
+    "top": "minecraft:block/spruce_door_top",
+    "side": "minecraft:block/spruce_door_side"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/birch_wood_x"
+      },
+	  {
+        "model": "minecraft:block/birch_wood_x",
+		"x": 90
+      },
+	  {
+        "model": "minecraft:block/birch_wood_x",
+		"x": 180
+      },
+	  {
+        "model": "minecraft:block/birch_wood_x",
+		"x": 270
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/birch_wood"
+      },
+	  {
+        "model": "minecraft:block/birch_wood",
+		"y": 90
+      },
+      {
+        "model": "minecraft:block/birch_wood",
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/birch_wood",
+		"y": 270
+      }
+    ],
+	"axis=z": [
+	  {
+		"model": "minecraft:block/birch_wood_z1"
+	  },
+	  {
+		"model": "minecraft:block/birch_wood_z2"
+	  },
+	  {
+		"model": "minecraft:block/birch_wood_z3"
+	  },
+	  {
+		"model": "minecraft:block/birch_wood_z4"
+	  }
+		]
+      }
+    }
+  }
+}

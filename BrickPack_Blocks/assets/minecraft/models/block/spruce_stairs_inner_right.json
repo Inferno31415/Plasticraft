@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_inner_right",
+  "textures": {
+    "top": "minecraft:block/spruce_planks",
+    "front": "minecraft:block/spruce_planks_front",
+    "side": "minecraft:block/spruce_planks_side",
+    "plate": "minecraft:block/spruce_fence",
+    "other_side": "minecraft:block/stripped_spruce_log"
+  }
+}

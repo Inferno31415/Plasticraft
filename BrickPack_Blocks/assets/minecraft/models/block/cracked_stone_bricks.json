@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/cracked_block",
+  "textures": {
+    "grid": "minecraft:block/stone_grid",
+	"front": "minecraft:block/stone_bricks_front",
+    "side": "minecraft:block/stone_bricks_side"
+  }
+}

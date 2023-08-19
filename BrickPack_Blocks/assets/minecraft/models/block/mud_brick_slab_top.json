@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/slab_top",
+  "textures": {
+    "top": "minecraft:block/oak_planks",
+    "front": "minecraft:block/mud_bricks_front",
+    "side": "minecraft:block/oak_planks_side"
+  }
+}

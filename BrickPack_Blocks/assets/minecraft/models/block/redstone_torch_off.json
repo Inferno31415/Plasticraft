@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/redstone_torch",
+  "textures": {
+    "flame": "block/mangrove_planks"
+  }
+}

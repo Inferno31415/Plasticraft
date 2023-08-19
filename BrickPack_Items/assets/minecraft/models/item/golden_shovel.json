@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/shovel",
+  "textures": {
+    "texture": "minecraft:block/gold_block_top"
+  }
+}

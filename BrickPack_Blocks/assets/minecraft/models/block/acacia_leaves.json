@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/leaves",
+  "textures": {
+    "side": "minecraft:block/leaves",
+    "top": "minecraft:block/stone",
+    "stud": "minecraft:block/gray_wool"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/oak_trapdoor",
+    "side": "minecraft:block/oak_trapdoor_side"
+  }
+}

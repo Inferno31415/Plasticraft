@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stick",
+  "textures": {
+    "texture": "minecraft:block/yellow_wool"
+  }
+}

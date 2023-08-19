@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/.parents/stairs_outer_right_top_assymetrical",
+  "textures": {
+    "top": "minecraft:block/mossy_stone_bricks_top",
+    "front": "minecraft:block/mossy_stone_bricks_front",
+    "side": "minecraft:block/mossy_stone_bricks_side",
+    "plate": "minecraft:block/mossy_stone_bricks_plates",
+    "front_mirrored": "minecraft:block/mossy_stone_bricks_front_mirrored",
+	"other_side": "minecraft:block/mossy_stone_bricks_other_side"
+  }
+}

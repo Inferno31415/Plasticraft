@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/acacia_wood_top",
+    "side": "minecraft:block/acacia_log"
+  }
+}

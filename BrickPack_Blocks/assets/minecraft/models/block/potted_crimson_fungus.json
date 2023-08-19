@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/fungus_potted",
+  "textures": {
+    "plate": "minecraft:block/red_wool",
+    "stud": "minecraft:block/mangrove_planks"
+  }
+}

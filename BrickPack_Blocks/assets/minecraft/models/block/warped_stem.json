@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/warped_stem_top",
+    "north": "minecraft:block/warped_stem_north",
+    "south": "minecraft:block/warped_stem_south",
+    "east": "minecraft:block/warped_stem_east",
+    "west": "minecraft:block/warped_stem_west",
+    "particle": "minecraft:block/warped_stem_east"
+  }
+}

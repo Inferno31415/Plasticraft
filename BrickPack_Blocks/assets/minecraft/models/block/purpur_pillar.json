@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/dark_prismarine",
+  "textures": {
+    "top": "minecraft:block/amethyst_block_top",
+    "side": "minecraft:block/amethyst_block_side"
+  }
+}

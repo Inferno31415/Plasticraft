@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/.parents/1x1_round_tile",
+  "textures": {
+    "texture": "minecraft:block/birch_planks",
+    "overlay": "minecraft:item/nautilus_shell"
+  }
+}

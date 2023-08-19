@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/melon",
+		"y": 90
+      },
+	  {
+        "model": "minecraft:block/melon",
+		"y": 180
+      }
+    ]
+  }
+}

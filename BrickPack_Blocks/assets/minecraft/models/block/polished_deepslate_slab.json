@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/slab",
+  "textures": {
+    "top": "minecraft:block/gray_wool",
+    "front": "minecraft:block/polished_deepslate",
+    "side": "minecraft:block/polished_deepslate"
+  }
+}

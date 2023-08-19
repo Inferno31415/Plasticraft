@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/leaves_no_tint_alt_3",
+  "textures": {
+    "side": "minecraft:block/cherry_fence",
+    "top": "minecraft:block/cherry_planks",
+    "stud": "minecraft:block/lime_wool"
+  }
+}

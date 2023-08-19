@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cave_vines_lit",
+  "textures": {
+    "2": "block/lime_wool"
+  }
+}

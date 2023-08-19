@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+    "side": "minecraft:block/stripped_crimson_stem"
+  }
+}

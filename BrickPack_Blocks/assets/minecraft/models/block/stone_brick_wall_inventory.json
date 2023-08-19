@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_inventory",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/stone_side"
+  }
+}

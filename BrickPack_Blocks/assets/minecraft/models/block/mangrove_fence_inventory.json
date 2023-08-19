@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/fence_inventory",
+  "textures": {
+    "planks": "minecraft:block/mangrove_planks",
+    "fence": "minecraft:block/mangrove_fence",
+    "stud": "minecraft:block/mangrove_planks"
+  }
+}

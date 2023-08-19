@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_1",
+  "textures": {
+    "top": "block/black_wool",
+    "side": "block/blackstone_wall",
+    "stud": "block/purple_wool"
+  }
+}

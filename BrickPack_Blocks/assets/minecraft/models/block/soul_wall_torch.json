@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_torch",
+  "textures": {
+    "3": "minecraft:block/white_wool",
+    "4": "minecraft:block/diamond_block_top"
+  }
+}

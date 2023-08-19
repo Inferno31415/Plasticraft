@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_outer_left",
+  "textures": {
+    "top": "minecraft:block/cherry_planks",
+    "front": "minecraft:block/cherry_planks_front",
+    "side": "minecraft:block/cherry_planks_side",
+    "plate": "minecraft:block/cherry_fence",
+    "other_side": "minecraft:block/stripped_cherry_log"
+  }
+}

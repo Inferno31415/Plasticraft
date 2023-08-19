@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/sculk_shrieker",
+  "textures": {
+    "8": "minecraft:block/sculk_shrieker_can_summon"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/end_stone_bricks_front"
+  }
+}

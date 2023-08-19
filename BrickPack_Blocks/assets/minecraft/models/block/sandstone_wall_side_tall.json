@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side_tall",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/stripped_birch_log"
+  }
+}

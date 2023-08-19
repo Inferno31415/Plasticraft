@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/birch_log_x"
+      },
+	  {
+        "model": "minecraft:block/birch_log_x",
+		"x": 90
+      },
+	  {
+        "model": "minecraft:block/birch_log_x",
+		"x": 180
+      },
+	  {
+        "model": "minecraft:block/birch_log_x",
+		"x": 270
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/birch_log"
+      },
+	  {
+        "model": "minecraft:block/birch_log",
+		"y": 90
+      },
+      {
+        "model": "minecraft:block/birch_log",
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/birch_log",
+		"y": 270
+      }
+    ],
+	"axis=z": [
+	  {
+		"model": "minecraft:block/birch_log_z1"
+	  },
+	  {
+		"model": "minecraft:block/birch_log_z2"
+	  },
+	  {
+		"model": "minecraft:block/birch_log_z3"
+	  },
+	  {
+		"model": "minecraft:block/birch_log_z4"
+	  }
+		]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "block/white_wool"
+	},
+	"elements": [
+		{
+			"from": [2, 12.8, 2],
+			"to": [14, 12.8, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#5"}
+			}
+		}
+	]
+}

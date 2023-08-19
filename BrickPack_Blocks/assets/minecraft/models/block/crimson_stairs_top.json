@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+    "front": "minecraft:block/crimson_planks_front",
+    "side": "minecraft:block/crimson_planks_side",
+    "plate": "minecraft:block/crimson_fence"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/hoe",
+  "textures": {
+    "texture": "minecraft:block/diamond_block_top"
+  }
+}

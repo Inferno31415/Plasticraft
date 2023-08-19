@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_nw_mirrored",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+    "side": "minecraft:block/crimson_planks_side",
+    "front": "minecraft:block/crimson_planks_front"
+  }
+}

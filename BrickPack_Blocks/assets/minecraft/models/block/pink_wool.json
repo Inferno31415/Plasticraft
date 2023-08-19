@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/pink_wool",
+    "side": "minecraft:block/pink_wool_side"
+  }
+}

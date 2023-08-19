@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side",
+  "textures": {
+    "top": "minecraft:block/gray_wool",
+    "side": "minecraft:block/deepslate"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/1x2_tile",
+  "textures": {
+    "texture": "minecraft:block/mangrove_planks"
+  }
+}

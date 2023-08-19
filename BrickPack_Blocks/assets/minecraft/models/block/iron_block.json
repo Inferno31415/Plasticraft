@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_nw_mirrored_with_stud",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/iron_block_side",
+    "front": "minecraft:block/iron_block_side"
+  }
+}

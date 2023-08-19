@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/axe",
+  "textures": {
+    "texture": "minecraft:block/gold_block_top"
+  }
+}

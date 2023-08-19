@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/dripstone_block",
+    "side": "minecraft:block/dripstone_block_side"
+  }
+}

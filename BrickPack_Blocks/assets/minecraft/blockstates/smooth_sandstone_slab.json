@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/smooth_sandstone_slab"
+    },
+    "type=double": [
+		{
+        "model": "minecraft:block/smooth_sandstone_z1"
+		},
+		{
+        "model": "minecraft:block/smooth_sandstone_z2"
+		},
+		{
+        "model": "minecraft:block/smooth_sandstone_z3"
+		},
+		{
+        "model": "minecraft:block/smooth_sandstone_z4"
+		}
+    ],
+    "type=top": {
+      "model": "minecraft:block/smooth_sandstone_slab_top"
+    }
+  }
+}

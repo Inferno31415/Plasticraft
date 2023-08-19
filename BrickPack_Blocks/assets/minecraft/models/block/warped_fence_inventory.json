@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/fence_inventory",
+  "textures": {
+    "planks": "minecraft:block/warped_planks",
+    "fence": "minecraft:block/warped_fence",
+    "stud": "minecraft:block/sculk_top"
+  }
+}

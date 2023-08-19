@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_inventory",
+  "textures": {
+    "top": "minecraft:block/mangrove_planks",
+    "side": "minecraft:block/stripped_mangrove_log"
+  }
+}

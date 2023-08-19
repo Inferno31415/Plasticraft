@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/gray_wool",
+    "east": "minecraft:block/bedrock_east",
+    "north": "minecraft:block/bedrock_north",
+    "particle": "minecraft:block/bedrock_east",
+    "south": "minecraft:block/bedrock_south",
+    "up": "minecraft:block/bedrock_top",
+    "west": "minecraft:block/bedrock_west"
+  }
+}

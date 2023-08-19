@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs",
+  "textures": {
+    "top": "minecraft:block/mangrove_planks",
+    "front": "minecraft:block/nether_bricks_front",
+    "side": "minecraft:block/mangrove_planks_side",
+    "plate": "minecraft:block/mangrove_fence"
+  }
+}

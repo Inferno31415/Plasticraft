@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/1x2_grill_tile",
+  "textures": {
+    "texture": "minecraft:block/lime_concrete_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs",
+  "textures": {
+    "top": "minecraft:block/oak_planks",
+    "front": "minecraft:block/mud_bricks_front",
+    "side": "minecraft:block/oak_planks_side",
+    "plate": "minecraft:block/oak_fence"
+  }
+}

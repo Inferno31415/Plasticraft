@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs",
+  "textures": {
+    "top": "minecraft:block/white_wool",
+    "front": "minecraft:block/white_concrete_side",
+    "side": "minecraft:block/white_concrete_side",
+    "plate": "minecraft:block/mushroom_stem"
+  }
+}

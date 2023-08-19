@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side",
+  "textures": {
+    "top": "minecraft:block/mangrove_planks",
+    "side": "minecraft:block/nether_bricks_front"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/potted_warped_roots",
+  "textures": {
+    "0": "minecraft:block/red_wool"
+  }
+}

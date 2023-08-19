@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/.parents/stairs_assymetrical",
+  "textures": {
+	"particle": "block/mossy_stone_bricks_front_mirrored",
+	"front": "block/mossy_stone_bricks_front_mirrored",
+	"side": "block/mossy_stone_bricks_side_mirrored",
+	"top": "block/mossy_stone_bricks_top_mirrored",
+	"front_mirrored": "block/mossy_stone_bricks_front",
+	"plate": "block/mossy_stone_bricks_plates_mirrored"
+  }
+}

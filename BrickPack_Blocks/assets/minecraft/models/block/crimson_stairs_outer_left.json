@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_outer_left",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+    "front": "minecraft:block/crimson_planks_front",
+    "side": "minecraft:block/crimson_planks_side",
+    "plate": "minecraft:block/crimson_fence",
+    "other_side": "minecraft:block/stripped_crimson_stem"
+  }
+}

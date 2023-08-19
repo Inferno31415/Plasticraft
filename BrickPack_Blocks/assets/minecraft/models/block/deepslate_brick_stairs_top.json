@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/gray_wool",
+    "front": "minecraft:block/deepslate_bricks_front",
+    "side": "minecraft:block/deepslate_bricks_side",
+    "plate": "minecraft:block/polished_deepslate"
+  }
+}

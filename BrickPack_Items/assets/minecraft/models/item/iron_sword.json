@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/sword",
+  "textures": {
+    "texture": "minecraft:block/flat_silver"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/.parents/block_nsew",
+	"textures": {
+		"0": "block/reinforced_deepslate_side",
+		"1": "block/birch_planks",
+		"2": "block/reinforced_deepslate_top",
+		"particle": "block/reinforced_deepslate_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "south"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2", "cullface": "north"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2", "cullface": "north"}
+			}
+		}
+	]
+}

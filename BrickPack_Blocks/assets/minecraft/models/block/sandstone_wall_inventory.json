@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_inventory",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/birch_fence"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/amethyst_block_top",
+    "side": "minecraft:block/budding_amethyst_side"
+  }
+}

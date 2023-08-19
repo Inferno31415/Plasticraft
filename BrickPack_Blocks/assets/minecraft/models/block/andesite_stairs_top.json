@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/andesite",
+    "front": "minecraft:block/andesite_side",
+    "side": "minecraft:block/andesite_front",
+    "plate": "minecraft:block/polished_andesite_front"
+  }
+}

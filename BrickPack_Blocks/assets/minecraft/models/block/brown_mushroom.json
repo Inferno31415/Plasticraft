@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/fungus",
+  "textures": {
+    "plate": "minecraft:block/dripstone_block",
+    "stud": "minecraft:block/gray_wool"
+  }
+}

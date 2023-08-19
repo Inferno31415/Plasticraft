@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/piston_head_sticky",
+  "textures": {
+    "2": "minecraft:block/oak_planks",
+    "7": "minecraft:block/stripped_oak_log"
+  }
+}

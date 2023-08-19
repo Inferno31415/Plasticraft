@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/mossy_stone_bricks_top",
+    "east": "minecraft:block/mossy_stone_bricks_side",
+    "north": "minecraft:block/mossy_stone_bricks_front",
+    "particle": "minecraft:block/mossy_stone_bricks_front",
+    "south": "minecraft:block/mossy_stone_bricks_front",
+    "up": "minecraft:block/mossy_stone_bricks_top",
+    "west": "minecraft:block/mossy_stone_bricks_side"
+  }
+}

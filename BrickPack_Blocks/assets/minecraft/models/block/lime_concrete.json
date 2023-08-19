@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/lime_concrete_top",
+    "side": "minecraft:block/lime_concrete_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/mangrove_planks",
+    "east": "minecraft:block/netherrack_side_alt",
+    "north": "minecraft:block/netherrack_side",
+    "particle": "minecraft:block/stripped_mangrove_log",
+    "south": "minecraft:block/stripped_mangrove_log",
+    "up": "minecraft:block/mangrove_planks",
+    "west": "minecraft:block/netherrack_side_alt_2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/trapdoor_2_bottom",
+  "textures": {
+    "top": "minecraft:block/white_wool",
+    "trapdoor": "minecraft:block/iron_trapdoor",
+    "side": "minecraft:block/iron_trapdoor_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/magenta_wool",
+    "side": "minecraft:block/magenta_wool_side"
+  }
+}

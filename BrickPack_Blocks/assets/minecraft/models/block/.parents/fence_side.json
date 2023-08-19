@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "#planks"
+	},
+	"elements": [
+		{
+			"name": "top bar",
+			"from": [4, 12.8, 0],
+			"to": [12, 16, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 3.2], "texture": "#fence"},
+				"east": {"uv": [0, 0, 4, 3.2], "texture": "#fence"},
+				"west": {"uv": [0, 0, 4, 3.2], "texture": "#fence"},
+				"up": {"uv": [8, 4, 10, 13], "texture": "#planks"},
+				"down": {"uv": [8, 4, 10, 13], "texture": "#planks"}
+			}
+		},
+		{
+			"name": "lower bar",
+			"from": [4, 6.4, 0],
+			"to": [12, 9.6, 4],
+			"faces": {
+				"north": {"uv": [0, 6.4, 8, 9.6], "texture": "#fence"},
+				"east": {"uv": [0, 6.4, 4, 9.6], "texture": "#fence"},
+				"west": {"uv": [0, 6.4, 4, 9.6], "texture": "#fence"},
+				"up": {"uv": [8, 4, 10, 13], "texture": "#planks"},
+				"down": {"uv": [8, 4, 10, 13], "texture": "#planks"}
+			}
+		}
+	]
+}

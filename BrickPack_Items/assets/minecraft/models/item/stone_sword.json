@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/sword",
+  "textures": {
+    "texture": "minecraft:block/gray_wool"
+  }
+}

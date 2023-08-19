@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/stud",
+  "textures": {
+    "texture": "minecraft:block/blue_wool"
+  }
+}

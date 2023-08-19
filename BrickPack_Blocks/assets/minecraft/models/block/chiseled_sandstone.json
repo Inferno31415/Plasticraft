@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/chiseled_block",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "side": "minecraft:block/stripped_birch_log",
+    "side_middle": "minecraft:block/stripped_birch_log"
+  }
+}

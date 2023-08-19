@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/.parents/1x1_round_tile",
+  "textures": {
+    "texture": "minecraft:block/lime_wool"
+  }
+}

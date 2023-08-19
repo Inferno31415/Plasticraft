@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench since Minecraft json doesn't allow you to rotate about z-axis.",
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "block/deepslate",
+		"south": "block/deepslate_alt_3",
+		"particle": "block/deepslate",
+		"east": "block/deepslate_alt",
+		"west": "block/deepslate_alt_2",
+		"top": "block/gray_wool"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#east", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#north", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#south", "cullface": "down"}
+			}
+		}
+	]
+}

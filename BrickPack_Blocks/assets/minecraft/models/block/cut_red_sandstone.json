@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_nw_mirrored_with_stud",
+  "textures": {
+    "top": "minecraft:block/acacia_planks",
+    "side": "minecraft:block/stripped_acacia_log", 
+    "front": "minecraft:block/stripped_acacia_log"
+  }
+}

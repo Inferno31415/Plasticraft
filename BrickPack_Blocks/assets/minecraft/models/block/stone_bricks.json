@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_nw_mirrored",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/stone_bricks_side",
+    "front": "minecraft:block/stone_bricks_front"
+  }
+}

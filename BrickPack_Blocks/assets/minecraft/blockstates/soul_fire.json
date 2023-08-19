@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/soul_fire",
+		"y": 90
+      },
+	  {
+        "model": "minecraft:block/soul_fire",
+		"y": 180
+      },
+	  {
+        "model": "minecraft:block/soul_fire",
+		"y": 270
+      },
+	  {
+        "model": "minecraft:block/soul_fire"
+      }
+    ]
+  }
+}

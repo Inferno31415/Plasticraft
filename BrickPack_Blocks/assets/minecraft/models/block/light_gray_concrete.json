@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/block_nsew",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/stone_side"
+  }
+}

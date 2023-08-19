@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/diorite_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/diorite",
+		"x": 90
+    },
+    "type=top": {
+      "model": "minecraft:block/diorite_slab_top"
+    }
+  }
+}

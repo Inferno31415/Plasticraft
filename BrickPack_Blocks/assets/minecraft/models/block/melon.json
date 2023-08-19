@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/lime_concrete_top",
+    "east": "minecraft:block/lime_concrete_top",
+    "north": "minecraft:block/melon_side",
+    "particle": "minecraft:block/lime_concrete_top",
+    "south": "minecraft:block/melon_side",
+    "up": "minecraft:block/lime_concrete_top",
+    "west": "minecraft:block/lime_concrete_top"
+  }
+}

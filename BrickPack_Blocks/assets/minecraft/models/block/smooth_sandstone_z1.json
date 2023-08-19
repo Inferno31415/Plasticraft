@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/.parents/block_nsew",
+	"textures": {
+		"2": "block/sand_side",
+		"3": "block/sand_side_alt",
+		"4": "block/sand_side_alt_2",
+		"top": "block/birch_planks",
+		"side": "block/stripped_birch_log",
+		"particle": "block/sand_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#4", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#3", "cullface": "down"}
+			}
+		}
+	]
+}

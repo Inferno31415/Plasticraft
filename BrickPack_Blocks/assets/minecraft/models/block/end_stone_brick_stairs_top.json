@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/birch_planks",
+    "front": "minecraft:block/end_stone_bricks_front",
+    "side": "minecraft:block/birch_planks_side",
+    "plate": "minecraft:block/birch_fence"
+  }
+}

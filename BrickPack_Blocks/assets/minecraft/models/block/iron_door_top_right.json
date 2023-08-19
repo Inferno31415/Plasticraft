@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/door_top_2",
+  "textures": {
+    "top": "minecraft:block/iron_trapdoor",
+    "side": "minecraft:block/iron_trapdoor_side"
+  }
+}

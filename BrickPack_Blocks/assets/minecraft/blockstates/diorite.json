@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/diorite",
+		"y": 90
+      },
+	  {
+        "model": "minecraft:block/diorite"
+      }
+    ]
+  }
+}

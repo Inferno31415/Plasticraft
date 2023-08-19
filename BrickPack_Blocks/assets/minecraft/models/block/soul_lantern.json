@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lantern",
+  "textures": {
+    "1": "minecraft:block/diamond_block_top"
+  }
+}

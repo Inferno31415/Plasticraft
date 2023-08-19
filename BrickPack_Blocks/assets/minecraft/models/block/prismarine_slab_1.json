@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/slab_with_stud_1",
+  "textures": {
+    "top": "minecraft:block/prismarine_top",
+    "side": "minecraft:block/prismarine_side",
+    "stud": "minecraft:block/prismarine_top"
+  }
+}

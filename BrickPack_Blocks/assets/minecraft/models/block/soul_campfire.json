@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/campfire",
+  "textures": {
+    "4": "minecraft:block/white_wool",
+    "5": "minecraft:block/diamond_block_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_inventory",
+  "textures": {
+    "top": "minecraft:block/gray_wool",
+    "side": "minecraft:block/polished_deepslate"
+  }
+}

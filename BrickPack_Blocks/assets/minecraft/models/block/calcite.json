@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/block_4",
+  "textures": {
+    "top": "block/white_wool",
+    "side": "block/mushroom_stem",
+    "stud": "block/stone"
+  }
+}
