@@ -1,27 +1,27 @@
 {
-	"credit": "Made with Blockbench since Minecraft json doesn't allow you to rotate about z-axis.",
-	"parent": "minecraft:block/cube",
-	"textures": {
-		"north": "block/stone_side",
-		"south": "block/stone_side_alt_3",
-		"particle": "block/stone_side",
-		"east": "block/stone_side_alt",
-		"west": "block/stone_side_alt_2",
-		"top": "block/stone"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#west", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#east", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#south", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#north", "cullface": "down"}
-			}
-		}
-	]
+    "credit": "Made with Blockbench since Minecraft json doesn't allow you to rotate about z-axis.",
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "north": "block/stone_side",
+        "south": "block/stone_side_alt_3",
+        "particle": "block/stone_side",
+        "east": "block/stone_side_alt",
+        "west": "block/stone_side_alt_2",
+        "top": "block/stone"
+    },
+    "elements": [
+        {
+            "from": [0, 0, 0],
+            "to": [16, 16, 16],
+            "rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 8]},
+            "faces": {
+                "north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top", "cullface": "north"},
+                "east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#west", "cullface": "east"},
+                "south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top", "cullface": "south"},
+                "west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#east", "cullface": "west"},
+                "up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#south", "cullface": "up"},
+                "down": {"uv": [0, 0, 16, 16], "texture": "#north", "cullface": "down"}
+            }
+        }
+    ]
 }

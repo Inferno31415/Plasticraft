@@ -3,62 +3,62 @@
     "": [
       {
         "model": "minecraft:block/mushroom_stem_1",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_1",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_1",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_1"
       },
           {
         "model": "minecraft:block/mushroom_stem_2",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_2",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_2",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_2"
       },
           {
         "model": "minecraft:block/mushroom_stem_3",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_3",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_3",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_3"
       },
           {
         "model": "minecraft:block/mushroom_stem_4",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_4",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_4",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/mushroom_stem_4"
       }
     ]

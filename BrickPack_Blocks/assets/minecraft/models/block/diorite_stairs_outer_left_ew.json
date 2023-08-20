@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:block/.parents/stairs_outer_left_assymetrical",
   "textures": {
-	"particle": "block/diorite_front",
-	"front": "block/diorite_front",
-	"side": "block/diorite_front_mirrored",
-	"top": "block/diorite_top_mirrored",
-	"front_mirrored": "block/diorite_front_mirrored",
-	"plate": "block/diorite_plates",
-	"other_side": "minecraft:block/diorite_front"
+    "particle": "block/diorite_front",
+    "front": "block/diorite_front",
+    "side": "block/diorite_front_mirrored",
+    "top": "block/diorite_top_mirrored",
+    "front_mirrored": "block/diorite_front_mirrored",
+    "plate": "block/diorite_plates",
+    "other_side": "minecraft:block/diorite_front"
   }
 }

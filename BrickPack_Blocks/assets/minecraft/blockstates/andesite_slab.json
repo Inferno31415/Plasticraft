@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/andesite",
-		"x": 90
+      "x": 90
     },
     "type=top": {
       "model": "minecraft:block/andesite_slab_top"

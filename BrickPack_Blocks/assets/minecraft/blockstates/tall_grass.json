@@ -1,38 +1,38 @@
 {
   "variants": {
     "half=lower": [
-		{
-		"model": "minecraft:block/grass"
-		},
-		{
+        {
+        "model": "minecraft:block/grass"
+        },
+        {
         "model": "minecraft:block/grass",
-		"y": 90
-		},
-		{
+        "y": 90
+        },
+        {
         "model": "minecraft:block/grass",
-		"y": 180
-		},
-		{
+        "y": 180
+        },
+        {
         "model": "minecraft:block/grass",
-		"y": 270
-		}
-	],
+        "y": 270
+        }
+    ],
     "half=upper": [
-		{
-		"model": "minecraft:block/tall_grass"
-		},
-		{
+        {
+        "model": "minecraft:block/tall_grass"
+        },
+        {
         "model": "minecraft:block/tall_grass",
-		"y": 90
-		},
-		{
+        "y": 90
+        },
+        {
         "model": "minecraft:block/tall_grass",
-		"y": 180
-		},
-		{
+        "y": 180
+        },
+        {
         "model": "minecraft:block/tall_grass",
-		"y": 270
-		}
-	]
+        "y": 270
+        }
+    ]
   }
 }

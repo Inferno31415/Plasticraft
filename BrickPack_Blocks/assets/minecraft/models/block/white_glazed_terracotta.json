@@ -2,7 +2,7 @@
   "parent": "minecraft:block/.parents/block_nw_mirrored",
   "textures": {
     "top": "minecraft:block/white_glazed_terracotta_top",
-	"front": "minecraft:block/white_glazed_terracotta_front",
+    "front": "minecraft:block/white_glazed_terracotta_front",
     "side": "minecraft:block/white_glazed_terracotta_side"
   }
 }

@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/bricks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/brick_slab_top"

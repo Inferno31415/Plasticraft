@@ -6,6 +6,6 @@
     "side": "minecraft:block/mossy_stone_bricks_side_mirrored",
     "plate": "minecraft:block/mossy_stone_bricks_plates_mirrored",
     "front_mirrored": "minecraft:block/mossy_stone_bricks_front",
-	"other_side": "minecraft:block/mossy_stone_bricks_other_side_mirrored"
+    "other_side": "minecraft:block/mossy_stone_bricks_other_side_mirrored"
   }
 }

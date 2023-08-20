@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/jungle_planks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/jungle_slab_top"

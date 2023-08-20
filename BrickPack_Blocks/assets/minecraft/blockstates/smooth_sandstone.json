@@ -4,13 +4,13 @@
       {
         "model": "minecraft:block/smooth_sandstone_z1"
       },
-	  {
+      {
         "model": "minecraft:block/smooth_sandstone_z2"
       },
-	  {
+      {
         "model": "minecraft:block/smooth_sandstone_z3"
       },
-	  {
+      {
         "model": "minecraft:block/smooth_sandstone_z4"
       }
     ]

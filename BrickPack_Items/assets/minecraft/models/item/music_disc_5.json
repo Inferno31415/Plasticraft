@@ -2,6 +2,6 @@
   "parent": "minecraft:item/.parents/disc",
   "textures": {
     "texture": "minecraft:block/gray_wool",
-	"print": "minecraft:item/music_disc_5"
+    "print": "minecraft:item/music_disc_5"
   }
 }

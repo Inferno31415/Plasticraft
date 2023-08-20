@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/red_nether_bricks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/red_nether_brick_slab_top"

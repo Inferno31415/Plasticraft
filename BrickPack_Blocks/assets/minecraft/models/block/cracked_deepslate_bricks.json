@@ -2,7 +2,7 @@
   "parent": "minecraft:block/.parents/cracked_block",
   "textures": {
     "grid": "minecraft:block/deepslate_grid",
-	"front": "minecraft:block/deepslate_bricks_front",
+    "front": "minecraft:block/deepslate_bricks_front",
     "side": "minecraft:block/deepslate_bricks_side"
   }
 }

@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/spruce_planks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/spruce_slab_top"

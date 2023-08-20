@@ -43,8 +43,8 @@
     },
     "facing=east,half=top,shape=straight": {
       "model": "minecraft:block/smooth_sandstone_stairs_west",
-	  "x": 180,
-	  "y": 180
+      "x": 180,
+      "y": 180
     },
     "facing=north,half=bottom,shape=inner_left": {
       "model": "minecraft:block/smooth_sandstone_stairs_inner",
@@ -94,7 +94,7 @@
     "facing=north,half=top,shape=straight": {
       "model": "minecraft:block/smooth_sandstone_stairs_north",
       "x": 180,
-	  "y": 180
+      "y": 180
     },
     "facing=south,half=bottom,shape=inner_left": {
       "model": "minecraft:block/smooth_sandstone_stairs_inner"
@@ -142,7 +142,7 @@
     "facing=south,half=top,shape=straight": {
       "model": "minecraft:block/smooth_sandstone_stairs_south",
       "x": 180,
-	  "y": 180
+      "y": 180
     },
     "facing=west,half=bottom,shape=inner_left": {
       "model": "minecraft:block/smooth_sandstone_stairs_inner",
@@ -194,7 +194,7 @@
     "facing=west,half=top,shape=straight": {
       "model": "minecraft:block/smooth_sandstone_stairs_east",
       "x": 180,
-	  "y": 180
+      "y": 180
     }
   }
 }

@@ -6,6 +6,6 @@
     "side": "minecraft:block/granite_front_mirrored",
     "plate": "minecraft:block/granite_plates",
     "front_mirrored": "minecraft:block/granite_front_mirrored",
-	"other_side": "minecraft:block/granite_front"
+    "other_side": "minecraft:block/granite_front"
   }
 }

@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/dark_prismarine",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/dark_prismarine_slab_top"

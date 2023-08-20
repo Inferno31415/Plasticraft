@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/polished_blackstone_bricks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/polished_blackstone_brick_slab_top"

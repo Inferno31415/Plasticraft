@@ -1,27 +1,27 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/cube",
-	"textures": {
-		"north": "block/warped_stem_north",
-		"south": "block/warped_stem_south",
-		"particle": "block/warped_stem_east",
-		"east": "block/warped_stem_east",
-		"west": "block/warped_stem_west",
-		"top": "block/dark_oak_planks"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#west", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#east", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#north", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#south", "cullface": "down"}
-			}
-		}
-	]
+    "credit": "Made with Blockbench",
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "north": "block/warped_stem_north",
+        "south": "block/warped_stem_south",
+        "particle": "block/warped_stem_east",
+        "east": "block/warped_stem_east",
+        "west": "block/warped_stem_west",
+        "top": "block/dark_oak_planks"
+    },
+    "elements": [
+        {
+            "from": [0, 0, 0],
+            "to": [16, 16, 16],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+            "faces": {
+                "north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#west", "cullface": "north"},
+                "east": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "east"},
+                "south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#east", "cullface": "south"},
+                "west": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "west"},
+                "up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#north", "cullface": "up"},
+                "down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#south", "cullface": "down"}
+            }
+        }
+    ]
 }

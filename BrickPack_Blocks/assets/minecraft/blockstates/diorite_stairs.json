@@ -19,14 +19,14 @@
     },
     "facing=east,half=top,shape=inner_left": {
       "model": "minecraft:block/diorite_stairs_inner_left_top_ew",
-	  "y": 270
+      "y": 270
     },
     "facing=east,half=top,shape=inner_right": {
       "model": "minecraft:block/diorite_stairs_inner_right_top_ew"
     },
     "facing=east,half=top,shape=outer_left": {
       "model": "minecraft:block/diorite_stairs_outer_left_top_ew",
-	  "y": 270
+      "y": 270
     },
     "facing=east,half=top,shape=outer_right": {
       "model": "minecraft:block/diorite_stairs_outer_right_top_ew"
@@ -56,11 +56,11 @@
     },
     "facing=north,half=top,shape=inner_left": {
       "model": "minecraft:block/diorite_stairs_inner_left_top_ns",
-	  "y": 180
+      "y": 180
     },
     "facing=north,half=top,shape=inner_right": {
       "model": "minecraft:block/diorite_stairs_inner_right_top_ns",
-	  "y": 270
+      "y": 270
     },
     "facing=north,half=top,shape=outer_left": {
       "model": "minecraft:block/diorite_stairs_outer_left_top_ns",
@@ -68,7 +68,7 @@
     },
     "facing=north,half=top,shape=outer_right": {
       "model": "minecraft:block/diorite_stairs_outer_right_top_ns",
-	  "y": 270
+      "y": 270
     },
     "facing=north,half=top,shape=straight": {
       "model": "minecraft:block/diorite_stairs_top_ns",
@@ -136,7 +136,7 @@
     },
     "facing=west,half=top,shape=inner_right": {
       "model": "minecraft:block/diorite_stairs_inner_right_top_ew",
-	  "y": 180
+      "y": 180
     },
     "facing=west,half=top,shape=outer_left": {
       "model": "minecraft:block/diorite_stairs_outer_left_top_ew",

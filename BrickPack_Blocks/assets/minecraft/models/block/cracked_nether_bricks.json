@@ -2,7 +2,7 @@
   "parent": "minecraft:block/.parents/cracked_block",
   "textures": {
     "grid": "minecraft:block/netherrack_grid",
-	"front": "minecraft:block/nether_bricks_front",
+    "front": "minecraft:block/nether_bricks_front",
     "side": "minecraft:block/mangrove_planks_side"
   }
 }

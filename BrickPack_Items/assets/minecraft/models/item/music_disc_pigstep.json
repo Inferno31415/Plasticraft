@@ -2,6 +2,6 @@
   "parent": "minecraft:item/.parents/disc",
   "textures": {
     "texture": "minecraft:block/mangrove_planks",
-	"print": "minecraft:item/music_disc_pigstep"
+    "print": "minecraft:item/music_disc_pigstep"
   }
 }

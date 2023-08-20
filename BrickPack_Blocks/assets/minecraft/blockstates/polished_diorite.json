@@ -3,9 +3,9 @@
     "": [
       {
         "model": "minecraft:block/polished_diorite",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/polished_diorite"
       }
     ]

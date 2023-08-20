@@ -3,62 +3,62 @@
     "": [
       {
         "model": "minecraft:block/calcite_1",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/calcite_1",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/calcite_1",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/calcite_1"
       },
           {
         "model": "minecraft:block/calcite_2",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/calcite_2",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/calcite_2",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/calcite_2"
       },
           {
         "model": "minecraft:block/calcite_3",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/calcite_3",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/calcite_3",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/calcite_3"
       },
           {
         "model": "minecraft:block/calcite_4",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/calcite_4",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/calcite_4",
-		"y": 270
+        "y": 270
       },
-	  {
+      {
         "model": "minecraft:block/calcite_4"
       }
     ]

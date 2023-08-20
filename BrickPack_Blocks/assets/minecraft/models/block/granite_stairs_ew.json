@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:block/.parents/stairs_assymetrical",
   "textures": {
-	"particle": "block/granite_front",
-	"front": "block/granite_front",
-	"side": "block/granite_front_mirrored",
-	"top": "block/granite_top_mirrored",
-	"front_mirrored": "block/granite_front_mirrored",
-	"plate": "block/granite_plates"
+    "particle": "block/granite_front",
+    "front": "block/granite_front",
+    "side": "block/granite_front_mirrored",
+    "top": "block/granite_top_mirrored",
+    "front_mirrored": "block/granite_front_mirrored",
+    "plate": "block/granite_plates"
   }
 }

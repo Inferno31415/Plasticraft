@@ -17,7 +17,7 @@
         "y": 270
       }
     ],
-	"snowy=true": [
+    "snowy=true": [
       {
         "model": "minecraft:block/grass_block_snow"
       },

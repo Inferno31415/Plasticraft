@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/warped_planks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/warped_slab_top"

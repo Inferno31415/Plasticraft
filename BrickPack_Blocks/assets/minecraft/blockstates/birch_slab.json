@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/birch_planks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/birch_slab_top"

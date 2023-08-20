@@ -4,19 +4,19 @@
       "model": "minecraft:block/stone_slab"
     },
     "type=double": [
-	{
+    {
       "model": "minecraft:block/stone_z1"
     },
-	{
+    {
       "model": "minecraft:block/stone_z2"
     },
-	{
+    {
       "model": "minecraft:block/stone_z3"
     },
-	{
+    {
       "model": "minecraft:block/stone_z4"
     }
-	],
+    ],
     "type=top": {
       "model": "minecraft:block/stone_slab_top"
     }

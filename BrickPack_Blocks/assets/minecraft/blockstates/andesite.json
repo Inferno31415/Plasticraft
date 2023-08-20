@@ -3,11 +3,11 @@
     "": [
       {
         "model": "minecraft:block/andesite",
-		"y": 90
+        "y": 90
       },
-	  {
+      {
         "model": "minecraft:block/andesite",
-		"y": 180
+        "y": 180
       }
     ]
   }

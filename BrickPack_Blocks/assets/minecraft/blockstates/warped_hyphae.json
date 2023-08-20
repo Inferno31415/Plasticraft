@@ -4,50 +4,50 @@
       {
         "model": "minecraft:block/warped_hyphae_x"
       },
-	  {
+      {
         "model": "minecraft:block/warped_hyphae_x",
-		"x": 90
+        "x": 90
       },
-	  {
+      {
         "model": "minecraft:block/warped_hyphae_x",
-		"x": 180
+        "x": 180
       },
-	  {
+      {
         "model": "minecraft:block/warped_hyphae_x",
-		"x": 270
+        "x": 270
       }
     ],
     "axis=y": [
       {
         "model": "minecraft:block/warped_hyphae"
       },
-	  {
+      {
         "model": "minecraft:block/warped_hyphae",
-		"y": 90
+        "y": 90
       },
       {
         "model": "minecraft:block/warped_hyphae",
-		"y": 180
+        "y": 180
       },
-	  {
+      {
         "model": "minecraft:block/warped_hyphae",
-		"y": 270
+        "y": 270
       }
     ],
-	"axis=z": [
-	  {
-		"model": "minecraft:block/warped_hyphae_z1"
-	  },
-	  {
-		"model": "minecraft:block/warped_hyphae_z2"
-	  },
-	  {
-		"model": "minecraft:block/warped_hyphae_z3"
-	  },
-	  {
-		"model": "minecraft:block/warped_hyphae_z4"
-	  }
-		]
+    "axis=z": [
+      {
+        "model": "minecraft:block/warped_hyphae_z1"
+      },
+      {
+        "model": "minecraft:block/warped_hyphae_z2"
+      },
+      {
+        "model": "minecraft:block/warped_hyphae_z3"
+      },
+      {
+        "model": "minecraft:block/warped_hyphae_z4"
+      }
+        ]
       }
     }
   }

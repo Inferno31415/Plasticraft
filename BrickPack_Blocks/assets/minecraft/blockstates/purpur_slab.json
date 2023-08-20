@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/purpur_block",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/purpur_slab_top"

@@ -1,15 +1,15 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"5": "block/white_wool"
-	},
-	"elements": [
-		{
-			"from": [2, 16, 2],
-			"to": [14, 16, 14],
-			"faces": {
-				"up": {"uv": [1, 1, 15, 15], "texture": "#5"}
-			}
-		}
-	]
+    "credit": "Made with Blockbench",
+    "textures": {
+        "5": "block/white_wool"
+    },
+    "elements": [
+        {
+            "from": [2, 16, 2],
+            "to": [14, 16, 14],
+            "faces": {
+                "up": {"uv": [1, 1, 15, 15], "texture": "#5"}
+            }
+        }
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "gui_light": "side",
-	"ambientocclusion": true,
+    "ambientocclusion": true,
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

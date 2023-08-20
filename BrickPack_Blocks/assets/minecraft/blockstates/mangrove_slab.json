@@ -5,7 +5,7 @@
     },
     "type=double": {
       "model": "minecraft:block/mangrove_planks",
-		"x": 90
+        "x": 90
     },
     "type=top": {
       "model": "minecraft:block/mangrove_slab_top"
