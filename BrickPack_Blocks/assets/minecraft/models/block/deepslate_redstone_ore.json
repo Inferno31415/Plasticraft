@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/.parents/ores",
-  "textures": {
-    "top": "minecraft:block/gray_wool",
-    "side": "minecraft:block/gray_wool_side",
-    "ore": "minecraft:block/mangrove_planks"
-  }
-}

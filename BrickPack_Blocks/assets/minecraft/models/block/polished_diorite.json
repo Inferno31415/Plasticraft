@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/.parents/block_nw_mirrored",
-  "textures": {
-    "top": "minecraft:block/white_wool",
-    "side": "minecraft:block/polished_diorite_side",
-    "front": "minecraft:block/polished_diorite_front"
-  }
-}

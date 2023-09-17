@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_assymetrical_inventory",
+  "textures": {
+    "top": "minecraft:block/diorite_top",
+    "side": "minecraft:block/diorite_front"
+  }
+}

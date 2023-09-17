@@ -1,0 +1,11 @@
+{
+	"parent": "block/smooth_sandstone_stairs_outer_left_west",
+	"textures": {
+		"plate": "block/mushroom_stem",
+		"other_side": "block/snow_side",
+		"other_side_alt": "block/snow_side_alt",
+		"top": "block/white_wool",
+		"particle": "block/white_concrete_side",
+		"side": "block/white_concrete_side"
+	}
+}

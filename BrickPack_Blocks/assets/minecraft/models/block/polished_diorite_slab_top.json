@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/.parents/slab_asymmetrical_top",
-  "textures": {
-    "top": "minecraft:block/white_wool",
-    "side": "minecraft:block/polished_diorite_front",
-    "bottom": "minecraft:block/white_wool"
-  }
-}

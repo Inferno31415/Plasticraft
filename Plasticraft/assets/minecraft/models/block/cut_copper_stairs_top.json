@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/acacia_planks",
+    "front": "minecraft:block/stripped_acacia_log",
+    "side": "minecraft:block/stripped_acacia_log",
+    "plate": "minecraft:block/acacia_fence"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/.parents/slab_asymmetrical",
-  "textures": {
-    "top": "minecraft:block/stone_grid",
-    "side": "minecraft:block/andesite_side",
-    "bottom": "minecraft:block/stone"
-  }
-}

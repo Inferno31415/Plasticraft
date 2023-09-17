@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/white_wool",
+    "east": "minecraft:block/snow_side_alt",
+    "north": "minecraft:block/snow_side",
+    "particle": "minecraft:block/white_concrete_side",
+    "south": "minecraft:block/white_concrete_side",
+    "up": "minecraft:block/white_wool",
+    "west": "minecraft:block/snow_side_alt_2"
+  }
+}

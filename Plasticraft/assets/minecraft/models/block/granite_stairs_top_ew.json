@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top_assymetrical",
+  "textures": {
+	"front_mirrored": "block/granite_front_mirrored",
+	"front": "block/granite_front",
+	"plate": "block/granite_plates",
+	"top": "block/granite_top",
+	"side": "block/granite_front_mirrored"
+  }
+}

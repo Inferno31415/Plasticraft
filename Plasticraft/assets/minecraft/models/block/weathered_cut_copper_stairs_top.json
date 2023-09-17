@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/.parents/stairs_top",
+  "textures": {
+    "top": "minecraft:block/lime_wool",
+    "front": "minecraft:block/lime_terracotta_side",
+    "side": "minecraft:block/lime_terracotta_side",
+    "plate": "minecraft:block/azalea"
+  }
+}

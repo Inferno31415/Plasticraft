@@ -1,0 +1,11 @@
+{
+	"parent": "block/smooth_sandstone_stairs_inner_left_west",
+	"textures": {
+		"plate": "block/acacia_fence",
+		"other_side": "block/red_sand_side",
+		"other_side_alt": "block/red_sand_side_alt",
+		"top": "block/acacia_planks",
+		"particle": "block/stripped_acacia_log",
+		"side": "block/stripped_acacia_log"
+	}
+}

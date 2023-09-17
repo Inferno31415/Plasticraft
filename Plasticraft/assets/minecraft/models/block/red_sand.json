@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/acacia_planks",
+    "east": "minecraft:block/red_sand_side_alt",
+    "north": "minecraft:block/red_sand_side",
+    "particle": "minecraft:block/stripped_acacia_log",
+    "south": "minecraft:block/stripped_acacia_log",
+    "up": "minecraft:block/acacia_planks",
+    "west": "minecraft:block/red_sand_side_alt_2"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/.parents/slab_asymmetrical_top",
-  "textures": {
-    "top": "minecraft:block/granite_top_mirrored",
-    "side": "minecraft:block/granite_front_mirrored",
-    "bottom": "minecraft:block/granite_top_mirrored"
-  }
-}

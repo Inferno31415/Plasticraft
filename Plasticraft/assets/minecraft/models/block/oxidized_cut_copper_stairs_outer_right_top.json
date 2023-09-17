@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/.parents/stairs_outer_right_top",
+  "textures": {
+    "top": "minecraft:block/warped_planks",
+    "front": "minecraft:block/stripped_warped_stem",
+    "side": "minecraft:block/stripped_warped_stem",
+    "plate": "minecraft:block/warped_fence",
+    "other_side": "minecraft:block/stripped_warped_stem"
+  }
+}

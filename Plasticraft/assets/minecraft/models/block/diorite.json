@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/diorite_top_mirrored",
+    "east": "minecraft:block/diorite_front",
+    "north": "minecraft:block/diorite_front_mirrored",
+    "particle": "minecraft:block/diorite_front",
+    "south": "minecraft:block/diorite_front_mirrored",
+    "up": "minecraft:block/diorite_top_mirrored",
+    "west": "minecraft:block/diorite_front"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/.parents/wall_assymetrical_side_tall",
+  "textures": {
+    "top": "minecraft:block/granite_top",
+    "side": "minecraft:block/granite_front_mirrored",
+	"side_mirrored": "minecraft:block/granite_front"
+  }
+}

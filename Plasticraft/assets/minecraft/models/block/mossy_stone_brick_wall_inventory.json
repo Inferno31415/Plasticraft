@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_assymetrical_inventory",
+  "textures": {
+    "top": "minecraft:block/mossy_stone_bricks_top",
+    "side": "minecraft:block/mossy_stone_bricks_other_side"
+  }
+}

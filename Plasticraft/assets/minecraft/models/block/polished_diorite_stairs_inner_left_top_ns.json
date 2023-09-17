@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/polished_diorite_stairs_inner_left_top_ew",
+  "textures": {
+	"front": "block/polished_diorite_side"
+  }
+}

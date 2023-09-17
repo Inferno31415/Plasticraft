@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/.parents/wall_side",
+  "textures": {
+    "top": "minecraft:block/stone",
+    "side": "minecraft:block/andesite_front"
+  }
+}
